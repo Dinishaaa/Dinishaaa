@@ -22,5 +22,16 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![Android Stuido](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]() 
 
+#
+
+### 🎨 Some of my Designs
+
+1. **[Sudoku Solver](https://figma.com/your-link)**
+2. **[PeerChat]()**
+3. **[Portfolio Website for a friend]()**
+
+<br>
+
+
 
 
