@@ -27,7 +27,7 @@
 ### 🎨 Some of my Designs
 
 1. **[Sudoku Solver](https://figma.com/your-link)**
-2. **[PeerChat]()**
+2. **[PeerChat](https://www.figma.com/design/FGPwjYe1RV9QV993LH8eyN/Untitled?node-id=0-1&t=YdU0tTY3imLDQFvc-1)**
 3. **[Portfolio Website for a friend]()**
 
 <br>
