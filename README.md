@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinishaaa&label=Profile%20views&color=0e75b6&style=flat" alt="dinishaaa" /> </p>
 
-- 🌱 I’m currently learning **UI/UX Design**
-
-- 💬 Ask me about **Figma**
+- 🌱 I’m currently learning **UI/UX Design and Frontend development**
 
 - 📫 How to reach me **upretydinisha@gmail.com**
 
