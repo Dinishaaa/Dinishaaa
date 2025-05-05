@@ -26,7 +26,7 @@
 
 ### 🎨 Some of my Designs
 
-1. **[Sudoku Solver](https://www.figma.com/design/spzac6YtkxukTIrfEeiV3s/Untitled?node-id=393-785&t=vvXyGhFSGf66MMuh-1))**
+1. **[Sudoku Solver](https://www.figma.com/design/spzac6YtkxukTIrfEeiV3s/Untitled?node-id=393-785&t=vvXyGhFSGf66MMuh-1)**
 2. **[PeerChat](https://www.figma.com/design/FGPwjYe1RV9QV993LH8eyN/Untitled?node-id=0-1&t=YdU0tTY3imLDQFvc-1)**
 3. **[Portfolio Website for a friend](https://www.figma.com/design/FVvrDgr0wLfj18suanKTxX/Untitled?node-id=0-1&t=6SEVXIALs41EEQtw-1)**
 
